@@ -1,4 +1,4 @@
-This project is a backend implementation of a collaborative document management and task planning platform, similar to Notion. It provides API endpoints for managing users, documents, tasks, Kanban boards, multimedia content, version control, comments, notifications, and more.
+This project is a backend implementation of a document management and task planning platform, similar to Notion. It provides API endpoints for managing users, documents, tasks, Kanban boards, multimedia content, version control, comments, notifications, and more.
 
 ## Database Design
 
